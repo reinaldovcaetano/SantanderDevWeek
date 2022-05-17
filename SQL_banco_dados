@@ -1,0 +1,4 @@
+INSERT INTO public.tab_correntista(
+	 conta_numero, conta_saldo, cpf, nome)
+	VALUES ( 985, '125.33','98745612314' , 'Gleyson Do Ceu');
+    SELECT * FROM TAB_CORRENTISTA;
